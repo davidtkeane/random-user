@@ -1,2 +1,3 @@
-# random-user
+# Random User
+
 Generate Random User
